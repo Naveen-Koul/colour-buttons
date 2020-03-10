@@ -1,0 +1,22 @@
+body{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    margin-left:7em;
+    margin-top: 1em;
+    
+}
+button{
+    font-size: 4em;
+    border-radius: 2em;
+    font-family: sans-serif;
+}
+
+.redbttn {
+background-color: #ff0000;
+}
+.greenbttn {
+    background-color: #00ff00;
+    }
+.bluebttn {
+        background-color:#0000ff;
+        }
